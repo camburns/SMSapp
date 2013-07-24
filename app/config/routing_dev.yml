@@ -12,5 +12,3 @@ _configurator:
 
 _main:
     resource: routing.yml
-
-    s
